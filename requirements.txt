@@ -1,0 +1,12 @@
+pandas 
+numpy 
+molfeat 
+datamol 
+rdkit 
+ankh 
+torch 
+peptides 
+sklearn 
+lightgbm
+tmap
+matplotlib
